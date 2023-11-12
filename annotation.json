@@ -1,0 +1,23 @@
+{
+  "image_name": "image1.jpg",
+  "annotations": [
+    {
+      "label": "bowl",
+      "coordinates": {
+        "x_min": 120,
+        "y_min": 300,
+        "x_max": 300,
+        "y_max": 400
+      }
+    },
+    {
+      "label": "candle",
+      "coordinates": {
+        "x_min": 70,
+        "y_min": 300,
+        "x_max": 340,
+        "y_max": 460
+      }
+    }
+  ]
+}
